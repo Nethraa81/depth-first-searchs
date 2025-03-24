@@ -57,7 +57,8 @@ Now, the Stack becomes empty, which means we have visited all the nodes, and our
 
 ## PROGRAM
 
-![Screenshot 2025-03-24 092014](https://github.com/user-attachments/assets/d433f479-8af9-4b5d-a1f4-a7bb4dd6fb16)
+![image](https://github.com/user-attachments/assets/6e1f6aa1-9292-4167-ac70-2e585b05aba3)
+
 
 <hr>
 <h3>Sample Input</h3>
