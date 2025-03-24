@@ -54,6 +54,11 @@ Now, the Stack becomes empty, which means we have visited all the nodes, and our
  <li>If Not Visited, add it to the STACK. Else Call The Function Again Until No more nodes needs to be visited.</li>
 </ol></B>
 
+
+## PROGRAM
+
+![Screenshot 2025-03-24 092014](https://github.com/user-attachments/assets/d433f479-8af9-4b5d-a1f4-a7bb4dd6fb16)
+
 <hr>
 <h3>Sample Input</h3>
 <hr>
@@ -69,10 +74,8 @@ G F <BR>
 F H <BR>
 <hr>
 <h3>Sample Output</h3>
-<hr>
-['A', 'B', 'E', 'D', 'C', 'G', 'F', 'H']
 
-<hr>
+![Screenshot 2025-03-24 092025](https://github.com/user-attachments/assets/09bf9824-8fdd-43cb-b33b-8c2f7326531f)
 
 <hr>
 <h3>Sample Input</h3>
@@ -85,10 +88,10 @@ F H <BR>
 2 4 <BR>
 <hr>
 <h3>Sample Output</h3>
-<hr>
-['0', '1', '2', '3', '4']
 
-<hr>
+![image](https://github.com/user-attachments/assets/fa9be7da-95a7-44a3-8cc2-7502f0cee25d)
+
+
 <h3>Result:</h3>
 <hr>
 <p>Thus,a Graph was constructed and implementation of Depth First Search for the same graph was done successfully.</p>
